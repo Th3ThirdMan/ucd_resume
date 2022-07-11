@@ -24,6 +24,10 @@
     background-color: #525252;
 }
 
+.bg-color-three-reasons {
+    background-color: #fff;
+}
+
 h1,
 h2,
 h3,
@@ -96,6 +100,23 @@ h4 {
     font-size: 14px;
     font-weight: 300;
     letter-spacing: 2px;
+}
+
+.row-table {
+    display: table
+}
+
+.section-column {
+    display: table-cell;
+    float: none;
+    padding: 0 30px 30px;
+}
+
+.section-heading {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 40px;
 }
 
 
