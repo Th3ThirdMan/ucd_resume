@@ -11,7 +11,7 @@
 }
 
 .bg-color-personal-info {
-    background-color: #cfcfcf;
+    background-color: #8eb0c7;
 }
 
 .bg-color-work-history {
@@ -229,10 +229,11 @@ footer {
 .three-reasons-icon {
     font-size: 26px;
     color: #e67e22;
+    margin-top: 10px;
 }
 
 .three-reasons-heading {
-    margin-bottom: 15px;
+    margin-bottom: 10px;    
 }
 
 /* ----------------------------------------Personal Info */
