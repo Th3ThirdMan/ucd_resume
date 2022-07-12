@@ -229,11 +229,12 @@ footer {
 .three-reasons-icon {
     font-size: 26px;
     color: #e67e22;
-    margin-top: 10px;
+    margin-top: 15px;
 }
 
 .three-reasons-heading {
-    margin-bottom: 10px;    
+    margin: 0;
+    margin-top: 15px;   
 }
 
 /* ----------------------------------------Personal Info */
