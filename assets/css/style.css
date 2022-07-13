@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css2?family=Exo&display=swap');
 
 /*--------------------------------------------Colors*/
 
@@ -52,9 +53,9 @@ h4 {
 }
 
 .general-sub {
-    font-family: "Exo", sans-serif;
+    font-family: 'Exo', sans-serif;
     font-weight: 300;
-    color: #fafafa;
+    color: rgb(0, 0, 0);
 }
 
 .inline-block {
@@ -227,15 +228,17 @@ footer {
 /* ----------------------------------------Three Reasons */
 
 .three-reasons-icon {
-    font-size: 26px;
+    font-size: 25px;
     color: #e67e22;
-    margin-top: 1px;
+    margin-top: 18px;
 }
 
 .three-reasons-heading {
     margin: 0;
     margin-top: 15px;   
 }
+
+
 
 /* ----------------------------------------Personal Info */
 
