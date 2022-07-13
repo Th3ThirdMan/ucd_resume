@@ -31,6 +31,14 @@
     background-color: #3498db;
 }
 
+.ui-menu-color-github {
+    background-color: navy;
+}
+
+.ui-menu-color-interests {
+    background-color: red;
+}
+
 .bg-color-contact {
     background-color: #fff;
 }
@@ -367,6 +375,10 @@ button[type="submit"] {
     color: #fafafa;
     background-color: #e84610;
 }
+
+/*-----------------------------------------Map*/
+
+div#map {min-height: 360px;}
 
 /* ----------------------------------------Media Queries */
 
